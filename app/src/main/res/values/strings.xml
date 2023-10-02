@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="toast">ditambahkan ke favorit</string>
+    <string name="toast2">dihapus dari favorit</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
